@@ -1,4 +1,4 @@
-# Projet Hagra - Plateforme de Preinscription Universitaire
+# Projet de Stage - Plateforme de Preinscription Universitaire
 
 Application React/Vite avec un backend Node.js/Express pour l'envoi et la verification des codes OTP.
 
